@@ -31,15 +31,15 @@ It does not include backend functionality or JavaScript logic.
 
 ## Project Structure
 
+```text
 Netflix-Clone/
-│── index.html
-│── style.css
-│── assets/
-│ ├── background.jpg
-│ ├── logo.svg
-│ └── other images
-
----
+|-- index.html
+|-- style.css
+|-- assets/
+    |-- background.jpg
+    |-- logo.svg
+    |-- kid.jpg
+```
 
 ## Project Status
 
